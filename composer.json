@@ -1,0 +1,20 @@
+{
+    "name": "oop/category-tree",
+    "description": "tree structure rep",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "src/classes",
+            "Interfaces\\": "src/interfaces"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jahanvi",
+            "email": "jahanvi.popat@gmail.com"
+        }
+    ],
+    "require": {
+      "phpunit/phpunit": "^9.5"
+    }
+}
